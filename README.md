@@ -15,4 +15,4 @@ This was all to be done in such a way that the web application's appearance rema
 * CSS
 
 ## Website
-https://jjp400.github.io/code-refactor-challenge/
+https://johnproodian.github.io/code-refactor-challenge/
