@@ -16,3 +16,11 @@ This was all to be done in such a way that the web application's appearance rema
 
 ## Website
 https://johnproodian.github.io/code-refactor-challenge/
+
+## (Recently Learned) Skills Used
+(See Run Buddy README)
+* Semantic HTML and best practices for structuring HTML files
+* Structuring HTML elements to satisfy specific accessibility standards (e.g. for screen readers)
+* Best practices for structuring CSS files
+* Commenting on CSS files to make code easier to read
+* Using GitHub pages to publish webpage to the Internet
