@@ -1,7 +1,6 @@
-# Code Refactor Challenge - Horiseon
+# Horiseon Website - Code Refactoring
 
-## Purpose
-The main purpose of this challenge was to refactor the HTML and CSS of Horiseon's web application so that it met certain accessibility standards. Additionally, we were supposed to improve the codebase in other ways, for instance, by:
+The main purpose of this challenge was to refactor the HTML and CSS of Horiseon's web application so that it met certain accessibility standards. Additionally, I was to improve the codebase in other ways, for instance, by:
 
 * making sure all the links were functioning correctly,
 * reworking the CSS to make it more efficient, 
